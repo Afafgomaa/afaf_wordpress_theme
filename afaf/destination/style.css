@@ -1,0 +1,124 @@
+p {
+  color: #fff; }
+
+hr {
+  border-top: 2px solid #000; }
+
+h2 {
+  color: red;
+  margin-top: -27px;
+  margin-bottom: 21px; }
+
+* {
+  padding: 0;
+  margin: 0; }
+
+header {
+  position: relative; }
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff; }
+
+header i {
+  color: red;
+  position: absolute;
+  top: 20px;
+  right: 31px; }
+
+header .navbar-brand {
+  visibility: hidden; }
+
+.main_posts {
+  position: relative; }
+  .main_posts .info span {
+    color: #fff;
+    background-color: red;
+    padding: 0px 10px; }
+
+.main_posts .info {
+  position: absolute;
+  left: 30px;
+  bottom: 1px; }
+
+.half_img .half_img_info span {
+  color: #fff;
+  background-color: red;
+  padding: 0px 10px;
+  position: absolute;
+  top: 35px;
+  left: 23px; }
+
+.half_img .half_img_info p {
+  line-height: 1.1;
+  position: absolute;
+  top: 61px;
+  left: 23px; }
+
+.half_img .half_img_information span {
+  color: #fff;
+  background-color: red;
+  padding: 0px 10px;
+  position: absolute;
+  bottom: 78px;
+  left: 20px; }
+
+.half_img .half_img_information p {
+  line-height: 1.1;
+  position: absolute;
+  bottom: 100px;
+  bottom: 20px;
+  left: 20px; }
+
+.egypt-news p {
+  position: absolute;
+  bottom: 0px;
+  left: 20px;
+  line-height: 1.1; }
+
+.list-unstyled li {
+  border: 1px solid #f1ecec;
+  padding: 14px;
+  color: #5a5555; }
+
+.list-unstyled li span {
+  background-color: red;
+  padding: 0 6px;
+  margin: 10px;
+  color: #fff; }
+
+.fearures {
+  margin-top: 5p; }
+
+footer {
+  background-color: #171515;
+  padding: 10px;
+  color: #fff; }
+f-l img{
+    float: left
+}
+.egypt-news .col-md-3 p {
+    line-height: 1.1;
+    position: absolute;
+    top: 84px;
+    left: 30px;
+    font-weight: bold
+}
+.main_features {
+    margin-bottom: 30px;
+}
+.main_features h2 {
+    margin-top: 3px;
+}
+
+
+@media (max-width: 767px) {
+  .text-center-sx {
+    text-align: center;
+    padding-bottom: 5px; }
+  .full-width {
+    width: 450px;
+    height: 250px; }
+  .pos_span {
+    text-align: center; }
+  header .navbar-brand {
+    visibility: visible; } }

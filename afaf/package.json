@@ -1,0 +1,18 @@
+{
+  "name": "code_95",
+  "version": "1.0.0",
+  "description": "this html,sass,bootstrap4 tampalte",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "animate.css": "^3.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
